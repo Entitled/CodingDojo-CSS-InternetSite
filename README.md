@@ -1,6 +1,6 @@
 # CodingDojo-CSS-InternetSite
 Internet
-For this assignment, we want you to watch how many times you're using <div> tags. Whenever you have one element within a division, it means you don't need that division! For example, imagine you had a code like this
+For this assignment, we want you to watch how many times you're using div tags. Whenever you have one element within a division, it means you don't need that division! For example, imagine you had a code like this
 
 By looking at the code above, can you identify unnecessary divisions? We hope so! Again, whenever you have one element inside a division, it means that's redundant! Think about how you can refactor the code above to make it simpler. One possible way to refactor the code is to do something like below
 
